@@ -1,8 +1,4 @@
-package main
-
-func main() {
-
-}
+package solution
 
 func Solve(arr []int) int {
 	sum := 0
